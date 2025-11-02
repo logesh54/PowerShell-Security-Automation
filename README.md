@@ -16,6 +16,7 @@ Automated Windows event log monitoring and alerting using PowerShell.
 4. ld reports are automatically deleted to save space
 
 🧩 Technologies Used
+
 *🖥️ PowerShell (Windows 10/11)
 *🔐 Windows Event Logs (Security)
 *📧 Outlook SMTP (smtp.office365.com)
@@ -23,6 +24,7 @@ Automated Windows event log monitoring and alerting using PowerShell.
 *🧠 Learning Outcome
 
 📝 Example Output
+
 ⚠️ ALERT: Failed login attempts detected!
 🔢 Total failed logins: 4
 📧 Outlook email alert sent successfully!
@@ -30,5 +32,6 @@ Automated Windows event log monitoring and alerting using PowerShell.
 ✅ Script completed successfully.
 
 🏁 Conclusion
+
 This project demonstrates how automation in PowerShell can simplify and enhance Windows security monitoring — a valuable skill for SOC Analysts, System Administrators, and Cybersecurity professionals.
 
